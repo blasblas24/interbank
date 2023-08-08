@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "codePoints";
+    src: url('fonts/okcodepoint-webfont.eot');
+    src: url('fonts/okcodepoint-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/okcodepoint-webfont.woff') format('woff'),
+         url('fonts/okcodepoint-webfont.ttf') format('truetype'),
+         url('fonts/okcodepoint-webfont.svg#Points') format('svg');
+    font-weight: normal; }
